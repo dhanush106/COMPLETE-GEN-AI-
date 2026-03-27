@@ -1,0 +1,36 @@
+//todo
+| Concepts                                            |
+| --------------------------------------------------- |
+| Python Basics (variables, data types, operators)    |
+| Control Flow (if-else, loops)                       |
+| Functions (args, kwargs, return values)             |
+| Data Structures (lists, tuples, sets, dictionaries) |
+| String Manipulation                                 |
+| Object-Oriented Programming (OOP)                   |
+| File Handling (TXT, CSV, JSON)                      |
+| JSON Handling                                       |
+| Exception Handling (try-except)                     |
+| Modules & Packages                                  |
+| Virtual Environments (venv)                         |
+| Debugging (print, pdb, error tracing)               |
+| Basic Testing (unittest / pytest basics)            |
+| NumPy Basics                                        |
+| Pandas Basics                                       |
+| Data Cleaning & Preprocessing                       |
+| REST APIs using Flask                               |
+| HTTP Methods (GET, POST, PUT, DELETE)               |
+| API Testing (Postman / Thunder Client)              |
+| Requests Library (API calls)                        |
+| Web Scraping (BeautifulSoup, requests)              |
+| Working with HTML (basic parsing)                   |
+| Iterators & Generators                              |
+| Lambda Functions (map, filter)                      |
+| Basic Logging                                       |
+| Environment Variables (.env usage)                  |
+| CLI Basics (argparse)                               |
+| Basic Async Concepts                                |
+| Git & Version Control                               |
+| Basic DSA (arrays, strings, hashing)                |
+| Intro to LLM APIs (OpenAI, etc.)                    |
+| Prompt Engineering Basics                           |
+| Simple AI Pipelines (input → process → output)      |
