@@ -1,11 +1,11 @@
 //todo
 | Concepts                                            |
 | --------------------------------------------------- |
-| Python Basics (variables, data types, operators)    |
-| Control Flow (if-else, loops)                       |
-| Functions (args, kwargs, return values)             |
-| Data Structures (lists, tuples, sets, dictionaries) |
-| String Manipulation                                 |
+| Python Basics (variables, data types, operators)    | COMPLETED
+| Control Flow (if-else, loops)                       | COMPLETED
+| Functions (args, kwargs, return values)             | COMPLETED
+| Data Structures (lists, tuples, sets, dictionaries) | COMPLETED
+| String Manipulation                                 | COMPLETED
 | Object-Oriented Programming (OOP)                   |
 | File Handling (TXT, CSV, JSON)                      |
 | JSON Handling                                       |
@@ -24,7 +24,7 @@
 | Web Scraping (BeautifulSoup, requests)              |
 | Working with HTML (basic parsing)                   |
 | Iterators & Generators                              |
-| Lambda Functions (map, filter)                      |
+| Lambda Functions (map, filter)                      | COMPLETED
 | Basic Logging                                       |
 | Environment Variables (.env usage)                  |
 | CLI Basics (argparse)                               |
